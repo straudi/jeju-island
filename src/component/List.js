@@ -39,9 +39,11 @@ const Text = styled.div`
 
 const List = ({match, data}) => {
     const {category} = match.params;
+    console.log(category);
+    console.log("data.category="+data.category);
     const content = data.category[category];
     console.log("카테고리게시판데이터==="+JSON.stringify(data));
-
+    console.log("content=="+content)
     return(
         <InfoListBox color="#e9e1cc">
             {content.map((value ,i) => (
