@@ -1,0 +1,78 @@
+{
+    "category" : {
+  
+      "restaurant": [
+          {
+            "name": "인디언키친",
+            "kinds": "인도요리",
+            "price": "₩15,000 - ₩30,000",
+            "address":"제주 애월읍 애원로 191 바그다드하우스",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/18/f8/37/67/caption.jpg"
+          },
+          {
+            "name": "명진전복",
+            "kinds": "시푸드",
+            "price": "₩12,000 - ₩30,000",
+            "address":"제주 구좌읍 해맞이해안로 1282",
+            "img":
+              "https://media-cdn.tripadvisor.com/media/photo-s/09/68/ba/e2/caption.jpg"
+          }
+        ],
+      "cafe": [
+          {
+            "name": "카페 델문도",
+            "kinds": "베이커리,커피",
+            "price": "₩5,500 - ₩7,000",
+            "address":"제주 조천읍 조함해안로 519-10",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/09/66/7f/9a/caption.jpg"
+          },
+          {
+            "name": "봄날",
+            "kinds": "브런치,커피",
+            "price": "₩4,000 - ₩6,000",
+            "address":"제주 애월로1길 25",
+            "img":
+              "https://media-cdn.tripadvisor.com/media/photo-s/0c/f1/00/22/caption.jpg"
+          }
+        ],
+      "tour": [
+          {
+            "name": "본태박물관",
+            "kinds": "박물관",
+            "price": "₩1,100 - ₩3,300",
+            "address":"서귀포 안덕면 산록남로762번길 69",
+            "img": "https://s3-ap-northeast-2.amazonaws.com/houseweddinglink/wp-content/uploads/2018/12/18195948/%EC%A0%9C%EC%A3%BC-%EB%B3%B8%ED%83%9C%EB%B0%95%EB%AC%BC%EA%B4%80-1.png"
+          },
+          {
+            "name": "제주김녕미로공원",
+            "kinds": "공원",
+            "price": "₩9,000 - ₩20,000",
+            "address":"제주특별자치도 제주시 구좌읍 만장굴길 122",
+            "img":
+              "https://api.cdn.visitjeju.net/photomng/imgpath/201804/30/5ca6b9e5-0ea7-405a-86eb-a3588f5c9ed0.gif"
+          }
+        ],
+        "wheather" : [
+          {
+              "city": "jeju",
+              "lat" : 33.499823,
+              "lot" : 126.531284
+          },
+          {
+              "city": "Aewol",
+              "lat" : "33.42",
+              "lot" : "126.38"
+          },
+          {
+              "city": "Seogwipo",
+              "lat" : 33.24,
+              "lot" : 126.56
+          },
+          {
+              "city": "Udo",
+              "lat" : 33.50,
+              "lot" : 126.95
+          }
+        ]
+    }
+}
