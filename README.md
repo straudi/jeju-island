@@ -6,9 +6,6 @@ http://jeju-island.herokuapp.com/
 
 제주 소개 블로그 사이트  
 
-### 
- 
-Create-react-app 을 사용하여 제작
 
 ### 
 
