@@ -2,13 +2,15 @@
 
 http://jeju-island.herokuapp.com/
 
-# jeju-island
+jeju-island
+========
 
 제주 소개 블로그 사이트  
 
 ### 
 
-# 블로그 구성
+블로그 구성
+--------------
 
 ** 메인 / 서브메뉴 **
 
